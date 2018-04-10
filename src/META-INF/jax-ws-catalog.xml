@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/ENTRAR/AppData/Roaming/NetBeans/8.2/config/WebServices/DecimalBinario/catalog/ws.docencia.ces.siani.es/a23/Ac43/DecimalBinario.wsdl" uri="wsdl/DecimalBinario.wsdl"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a23/Ac43/DecimalBinario?xsd=1" uri="wsdl/ws.docencia.ces.siani.es/a23/Ac43/DecimalBinario.xsd_1.xsd"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a23/Factorial/Factorial?wsdl" uri="wsdl/ws.docencia.ces.siani.es/a23/Factorial/Factorial.wsdl"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a23/Factorial/Factorial?xsd=1" uri="wsdl/ws.docencia.ces.siani.es/a23/Factorial/Factorial.xsd_1.xsd"/>
+</catalog>
